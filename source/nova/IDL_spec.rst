@@ -204,7 +204,7 @@ model的每个字段, 注释也是使用 /\*\* \*/ 包围,
 
    2. XXXUpdateDTO
 
-      1. 不会包含 kdtId, uid 等主体参数
+      1. 必须包含 kdtId, uid 等主体参数
 
    3. XXXQueryDTO
    4. XXXListItemDTO
